@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "create-react-class": "15.7.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "syncfusion-javascript": "^18.3.47"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest",
+    "browser-sync": "^2.14.3",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-react": "^3.1.0",
+    "gulp-watch": "^4.3.9"
+  }
+}
